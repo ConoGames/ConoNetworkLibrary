@@ -1,0 +1,8 @@
+ConoNetworkLibrary.sln
+ConoNetworkLibrary.userprefs
+ConoNetworkLibrary/ConoNetworkLibrary.csproj
+ConoNetworkLibrary/ConoNetworkLibrary.csproj.user
+ConoNetworkLibrary/bin/*
+ConoNetworkLibrary/obj/*
+ConoNetworkLibrary/Properties/*
+doxygen/*
